@@ -1,0 +1,4 @@
+
+String是不可变的，StringBuilder、StringBuffer是可变的
+
+StringBuilder是线程不安全的、StringBuffer是线程安全的
